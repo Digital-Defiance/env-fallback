@@ -1,0 +1,8 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  },
+	"containerEnv": {
+		"DIGITALD_IS_ENV_FALLBACK": "true"
+	}
+}
